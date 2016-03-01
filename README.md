@@ -80,6 +80,13 @@ Vamos a escribir una funcion simple que soporte algunos parametros para probar l
   }
   ```
 
+### Open Source @ IBM
+  Encontra mas proyectos Open Source en [IBM GitHub Page](http://ibm.github.io/)
+
+### License
+
+  This sample code is licensed under the Apache 2.0 license. Full license text is available in [LICENSE](LICENSE).
+
 [open_whisk]: https://new-console.ng.bluemix.net/docs/openwhisk/openwhisk_about.html
 [cloud_foundry]: https://github.com/cloudfoundry/cli
 [sign_up]:https://console.ng.bluemix.net/registration/
