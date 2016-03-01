@@ -12,7 +12,7 @@ Tutorial para probar IBM openWhisk con una accion basica. Para mas informacion r
 
 Las siguientes instrucciones explican como hacer [fork del proyecto en GitHub](https://github.com/francodimasi/openwhisk-hola-mundo#fork-destination-box), instalar la tool para interactuar con [OpenWhisk][open_whisk] y luego hacer push de una accion basica, Hola Mundo. Para instalar OpenWhisk ejecutamos los siguientes pasos:
 
-  1. [Crear una cuenta][sing_up] en Bluemix o usar una existente. Para acceder a los servicios de Open Whisk quizas debamos esperar unas horas hasta tener acceso.
+  1. [Crear una cuenta][sign_up] en Bluemix o usar una existente. Para acceder a los servicios de Open Whisk quizas debamos esperar unas horas hasta tener acceso.
 
   2. Ingresar a GitHub y hacer [fork del proyecto en GitHub](https://github.com/francodimasi/openwhisk-hola-mundo#fork-destination-box). Despues debes clonar el Fork a tu carpeta local.
   
